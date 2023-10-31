@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+starlette-admin
+psycopg2-binary
+alembic
+gunicorn
